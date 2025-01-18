@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>React/Teypescript/sass boilerplate</h1>
+        <h1>React/Typescript/sass boilerplate</h1>
       </div>
     </>
   )
